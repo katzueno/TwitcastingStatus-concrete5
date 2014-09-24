@@ -26,7 +26,7 @@ class Katz515TwitcastingLiveStatusPackage extends Package {
 
 	protected $pkgHandle = 'katz515_twitcasting_live_status';
 	protected $appVersionRequired = '5.3.3';
-	protected $pkgVersion = '0.9.2';
+	protected $pkgVersion = '1.0.1';
 	
 	public function getPackageDescription() { 
 		return t("Display the live or offline status of a desired Twitcasting Channel");
