@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Twitcasting Live Status\n"
+"Report-Msgid-Bugs-To: Katsuyuki Ueno <info@deerstudio.com>\n"
+"POT-Creation-Date: 2011-06-22 16:19+0900\n"
+"PO-Revision-Date: 2011-06-22 16:46+0900\n"
+"Last-Translator: Katsuyuki Ueno <info@deerstudio.com>\n"
+"Language-Team: Katsuyuki Ueno <info@deerstudio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10view.php:12
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:9
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:11
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:14
+msgid "It's live now!"
+msgstr "生放送中！"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10view.php:19
+msgid "Visit our Twitcasting page"
+msgstr "Twitcasting 配信ページへ"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10view.php:22
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:9
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:11
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:15
+msgid "Live stream is offline"
+msgstr "只今、中継していません"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10view.php:27
+msgid "ERROR: Unable to retrieve Twitcasting channel. Please review your ID name."
+msgstr "エラー：Twitcastingとつながりません。チャネルを確認してください。"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10controller.php:23
+#: katz515_ustream_status_simple/controller.php:23
+msgid "Access Denied."
+msgstr "アクセスできません。"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:1
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10edit.php:1
+msgid "Please type the Twitcasting URL, or Twitter ID of your desired Twitcasting channel (e.g., http://twitcasting.tv/YokosoNews)"
+msgstr "Twitcasting のURL（もしくはIDのみ）を入力<br />(例 \"http://twitcasting.tv/YokosoNews\")"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:3
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10edit.php:3
+msgid "Twitcasting ID"
+msgstr "ツイキャス ID"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:5
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10edit.php:5
+msgid "Image Type"
+msgstr "イメージタイプ"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:8
+msgid "Small (88x31 pixels)"
+msgstr "小サイズ(88x31)"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:10
+msgid "Medium (190x80 pixels))"
+msgstr "中サイズ(190x80)"
+
+#: katz515_twitcasting_live_status/blocks/twitcasting_live_status/view.php:10add.php:13
+msgid "Medium Large (300x120 pixels)"
+msgstr "大サイズ(300x120)"
+
+#: katz515_ustream_status_simple/controller.php:32
+msgid "Display the live or offline status of a desired Twitcasting Channel"
+msgstr "Twitcastingネット放送のオンライン/オフラインの状態を表示します。"
+
+#: katz515_ustream_status_simple/controller.php:36
+msgid "Twitcasting Live Status"
+msgstr "Twitcasting ライブ告知"
+

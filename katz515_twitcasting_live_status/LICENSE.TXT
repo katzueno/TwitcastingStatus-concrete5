@@ -1,0 +1,11 @@
+==================================================
+WARNING if you want to re-distribute
+==================================================
+
+Twitcasting Logo and name are the trademarks of Sidefeed, Inc. or its representative or preceding owner.
+
+If you want to redistribute the icons of Twitcasting, you MUST alter the images if you want to re-distribute or contact Twitcasting.TV directly for their permission.
+
+Othersie, this software is licensed under the terms described in the concrete5.org marketplace. Please find the add-on there for the latest license copy.
+
+By katz515
